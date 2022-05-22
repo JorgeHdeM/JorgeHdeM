@@ -1,1 +1,1 @@
-![alt text](https://github.com/JorgeHdeM/me/blob/me/Readme.png?raw=true)
+![alt text](https://github.com/JorgeHdeM/me/blob/main/Readme.png?raw=true)
